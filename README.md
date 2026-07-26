@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:22D3EE&height=200&section=header&text=Eswaran%20Jagadeesan&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Engineer%20%C2%B7%20I%20ship%20systems%2C%20not%20demos&descAlignY=58&descSize=16" alt="banner" />
+<img src="assets/banner.svg" alt="Eswaran Jagadeesan — Full-Stack &amp; AI Engineer" width="100%" />
 
 <a href="https://github.com/official-eswaran">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&lines=Local-first+AI+%C2%B7+NL-to-SQL+%C2%B7+Zero+data+leakage;FastAPI+%2B+React+%2B+DuckDB+%2B+Ollama;Kubernetes%2C+Terraform%2C+CI%2FCD%2C+observability;On-device+ML+in+Kotlin+%2B+TensorFlow+Lite;I+file+the+P0s+against+my+own+code" alt="Typing SVG" />
@@ -457,7 +457,7 @@ class HowIBuild:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0D1117&height=120&section=footer" alt="footer" />
+<img src="assets/footer.svg" alt="" width="100%" />
 
 </div>
 

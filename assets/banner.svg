@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Eswaran Jagadeesan — Full-Stack and AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#0E2A33"/>
+      <stop offset="100%" stop-color="#123B47"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#0EA5C6" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+
+  <path fill="url(#wave1)" d="M0,150 C150,110 300,190 450,155 C600,120 750,180 900,150 C1020,126 1120,158 1200,142 L1200,220 L0,220 Z"/>
+  <path fill="url(#wave2)" d="M0,178 C160,150 320,206 480,182 C640,158 800,200 960,180 C1060,168 1140,186 1200,176 L1200,220 L0,220 Z"/>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" text-anchor="middle">
+    <text x="600" y="94" fill="#FFFFFF" font-size="50" font-weight="700" letter-spacing="0.5">Eswaran Jagadeesan</text>
+    <text x="600" y="132" fill="#22D3EE" font-size="17.5" font-weight="600" letter-spacing="2.6">FULL-STACK &amp; AI ENGINEER</text>
+    <text x="600" y="163" fill="#93A4B3" font-size="14.5">I ship systems, not demos</text>
+  </g>
+
+</svg>

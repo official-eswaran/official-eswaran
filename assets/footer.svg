@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Footer">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#0E2A33"/>
+      <stop offset="100%" stop-color="#123B47"/>
+    </linearGradient>
+    <linearGradient id="fw1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#0EA5C6" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="fw2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="120" fill="url(#fbg)"/>
+  <path fill="url(#fw1)" d="M0,44 C160,72 320,16 480,40 C640,64 800,22 960,42 C1060,54 1140,36 1200,46 L1200,0 L0,0 Z"/>
+  <path fill="url(#fw2)" d="M0,18 C150,58 300,-22 450,13 C600,48 750,-12 900,18 C1020,42 1120,10 1200,26 L1200,0 L0,0 Z"/>
+</svg>
